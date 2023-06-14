@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.app-container {
+  text-align: center;
+}
+
+.title-heading {
+  color: #0967d2;
+}
+
+.title-para {
+  color: #2b237c;
+  font-weight: bold;
+  font-size: 15px;
+}
